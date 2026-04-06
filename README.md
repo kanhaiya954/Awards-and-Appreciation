@@ -7,18 +7,22 @@ Delivering high-quality work
 Maintaining strong client relationships
 Ensuring timely and efficient project delivery
 Providing reliable production support
+
 🎯 Key Highlights
 🏅 Recognized for outstanding performance in client projects
 🤝 Appreciation for proactive communication and issue resolution
 ⚡ Delivered optimized and efficient data solutions
 📊 Ensured data accuracy and consistency across systems
 🚀 Contributed to successful project deliveries under tight deadlines
+
+
 🛠️ Skills Demonstrated
 SQL & PL/SQL Development
 ETL Development (Oracle Data Integrator - ODI)
 Data Analysis & Optimization
 Production Support (L2/L3)
 Reporting (OBIEE)
+
 📂 Repository Contents
 Award certificates 
 Appreciation certificate
